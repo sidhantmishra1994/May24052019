@@ -23,7 +23,7 @@ body, html {height: 100%}
 	<center>
 		<h2>Welcome to Venkatesh Jenkins DemoProject Tutorial</h2>
 		<h3>
-			<a href="hello?name=GE">Click Here</a>
+			<a href="hello?name=CI-CD DEMO-29th July 7.00 PM">Click Here</a>
 		</h3>
 	</center>
 </body>
