@@ -9,17 +9,19 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('../img/images.jpg');
+  background-image: url('/img/images.jpg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
 }
 </style>
 
-<body>
+<body class="bgimg">
  
 	<center>
+	<div class="welcome">
 		<h2>Welcome to Venkates Jenkins DemoProject Tutorial</h2>
+	</div>
 		<h3>
 			<a href="hello?name=CI-CD DEMO-29th July 7.00 PM">Click Here</a>
 		</h3>
