@@ -17,7 +17,7 @@ body, html {height: 100%}
 </style>
 <!-- style="background-color: aliceblue;" -->
 
-<body class="bgimg">
+<body style="background-color: aliceblue;">
  
 	<center>
 	<div style=" color: yellowgreen">
