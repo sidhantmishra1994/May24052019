@@ -21,7 +21,7 @@ body, html {height: 100%}
  
 	<center>
 	<div style=" color: yellowgreen">
-		<h2>Welcome to Venkatesh Jenkins DemoProject Tutorial</h2>
+		<h2>Welcome to Venkatesh Jenkins CI-CD Pipeline Tutorial</h2>
 	</div>
 	<div>
 		<h3>
