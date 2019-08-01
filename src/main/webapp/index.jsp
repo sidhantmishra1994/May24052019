@@ -9,10 +9,14 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('../resources/img/images.jpg');
+  background-image: url('/resources/img/images.jpg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
+}
+.pipelineTutorial{
+    color: #010002;
+    margin-top: 15%;
 }
 </style>
 <!-- style="background-color: aliceblue;" -->
@@ -20,7 +24,7 @@ body, html {height: 100%}
 <body class="bgimg">
  
 	<center>
-	<div style=" color: yellowgreen">
+	<div class="pipelineTutorial">
 		<h2>Welcome to Venkatesh Jenkins CI-CD Pipeline Tutorial</h2>
 	</div>
 	<div>
