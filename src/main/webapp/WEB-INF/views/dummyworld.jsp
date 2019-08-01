@@ -5,12 +5,40 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>DummyWorld</title>
 </head>
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  							
+}
+
+.application-title img {
+  width:200px;
+  height:200px;
+  box-sizing:border-box;
+  padding-left: 200px;
+  /*width of the image*/
+  background: url('../resources/img/images.jpg') left top no-repeat;
+}
+<div class="application-title">
+  <img src="../resources/img/images.jpg">
+</div><br />
+Original Image: <br />
+
+<img src="../resources/img/images.jpg">
+.dummyproject{    
+    margin-top: 15%;
+    margin-left: 18%;
+}}
+</style>
 <body>
-	<center>
+<div class="dummyAppClass">
+	<center class="dummyApp">
 		<h2>Dummy Application</h2>
 		<h2>
 			${message} ${name}
 		</h2>
 	</center>
+</div>
 </body>
 </html>
